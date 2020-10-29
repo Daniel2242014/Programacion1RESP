@@ -6,6 +6,7 @@
             "label": "PAS build active file",
             "command": "fpc",
             "args": [
+                "-Co",  "-Cr", "-Miso", "-gl",
                 "${file}"
             ],
             "group": {

@@ -1,0 +1,5 @@
+program PruebaConRegistrosVariables;
+
+begin 
+
+end.
